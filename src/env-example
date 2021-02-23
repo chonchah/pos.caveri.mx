@@ -1,0 +1,5 @@
+DB_HOST=mongodb+srv://192.168.1.75
+DB_NAME=pos
+DB_PORT=27017
+DB_USER=cliente-pos
+DB_PASS=caveri4311
